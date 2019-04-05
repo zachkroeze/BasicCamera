@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BasicCamera</string>
+    <string name="app_name">CameraVisualization</string>
+    <string name="camera_text">Camera Text</string>>
 </resources>
